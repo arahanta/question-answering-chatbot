@@ -6,9 +6,11 @@ Welcome to the PDF-Based Chatbot project! This innovative module use langchain-g
 ## Installation and Setup
 To begin, install the required packages:
 ```bash
-!pip install -U langchain-google-genai pypdf langchain chromadb```
+!pip install -U langchain-google-genai pypdf langchain chromadb
 
-### Functionality Overview
+
+
+## Functionality Overview
 
 - **handle_input(user_input):**
   - Handles user input and processes commands or questions.
